@@ -29,7 +29,11 @@
       "properties": {
         "ADMIN": "Aruba",
         "ISO_A3": "ABW",
-        "ISO_A2": "AW"
+        "ISO_A2": "AW",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -224,7 +228,11 @@
       "properties": {
         "ADMIN": "Afghanistan",
         "ISO_A3": "AFG",
-        "ISO_A2": "AF"
+        "ISO_A2": "AF",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 7,
+        "total_deaths": 0
       }
     },
     {
@@ -429,7 +437,11 @@
       "properties": {
         "ADMIN": "Angola",
         "ISO_A3": "AGO",
-        "ISO_A2": "AO"
+        "ISO_A2": "AO",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -460,7 +472,11 @@
       "properties": {
         "ADMIN": "Anguilla",
         "ISO_A3": "AIA",
-        "ISO_A2": "AI"
+        "ISO_A2": "AI",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -515,7 +531,11 @@
       "properties": {
         "ADMIN": "Albania",
         "ISO_A3": "ALB",
-        "ISO_A2": "AL"
+        "ISO_A2": "AL",
+        "new_cases": 10,
+        "new_deaths": 0,
+        "total_cases": 33,
+        "total_deaths": 1
       }
     },
     {
@@ -546,7 +566,11 @@
       "properties": {
         "ADMIN": "Aland",
         "ISO_A3": "ALA",
-        "ISO_A2": "AX"
+        "ISO_A2": "AX",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -577,7 +601,11 @@
       "properties": {
         "ADMIN": "Andorra",
         "ISO_A3": "AND",
-        "ISO_A2": "AD"
+        "ISO_A2": "AD",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 2,
+        "total_deaths": 0
       }
     },
     {
@@ -644,7 +672,11 @@
       "properties": {
         "ADMIN": "United Arab Emirates",
         "ISO_A3": "ARE",
-        "ISO_A2": "AE"
+        "ISO_A2": "AE",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 85,
+        "total_deaths": 0
       }
     },
     {
@@ -1077,7 +1109,11 @@
       "properties": {
         "ADMIN": "Argentina",
         "ISO_A3": "ARG",
-        "ISO_A2": "AR"
+        "ISO_A2": "AR",
+        "new_cases": 3,
+        "new_deaths": 1,
+        "total_cases": 34,
+        "total_deaths": 2
       }
     },
     {
@@ -1136,7 +1172,11 @@
       "properties": {
         "ADMIN": "Armenia",
         "ISO_A3": "ARM",
-        "ISO_A2": "AM"
+        "ISO_A2": "AM",
+        "new_cases": 7,
+        "new_deaths": 0,
+        "total_cases": 8,
+        "total_deaths": 0
       }
     },
     {
@@ -1167,7 +1207,11 @@
       "properties": {
         "ADMIN": "American Samoa",
         "ISO_A3": "ASM",
-        "ISO_A2": "AS"
+        "ISO_A2": "AS",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -5612,7 +5656,11 @@
       "properties": {
         "ADMIN": "Antarctica",
         "ISO_A3": "ATA",
-        "ISO_A2": "AQ"
+        "ISO_A2": "AQ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -5643,7 +5691,11 @@
       "properties": {
         "ADMIN": "Ashmore and Cartier Islands",
         "ISO_A3": "-99",
-        "ISO_A2": "AQ"
+        "ISO_A2": "AQ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -5674,7 +5726,11 @@
       "properties": {
         "ADMIN": "French Southern and Antarctic Lands",
         "ISO_A3": "ATF",
-        "ISO_A2": "TF"
+        "ISO_A2": "TF",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -5705,7 +5761,11 @@
       "properties": {
         "ADMIN": "Antigua and Barbuda",
         "ISO_A3": "ATG",
-        "ISO_A2": "AG"
+        "ISO_A2": "AG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -6410,7 +6470,11 @@
       "properties": {
         "ADMIN": "Australia",
         "ISO_A3": "AUS",
-        "ISO_A2": "AU"
+        "ISO_A2": "AU",
+        "new_cases": 57,
+        "new_deaths": 0,
+        "total_cases": 197,
+        "total_deaths": 3
       }
     },
     {
@@ -6505,7 +6569,11 @@
       "properties": {
         "ADMIN": "Austria",
         "ISO_A3": "AUT",
-        "ISO_A2": "AT"
+        "ISO_A2": "AT",
+        "new_cases": 143,
+        "new_deaths": 0,
+        "total_cases": 504,
+        "total_deaths": 1
       }
     },
     {
@@ -6622,7 +6690,11 @@
       "properties": {
         "ADMIN": "Azerbaijan",
         "ISO_A3": "AZE",
-        "ISO_A2": "AZ"
+        "ISO_A2": "AZ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 11,
+        "total_deaths": 0
       }
     },
     {
@@ -6677,7 +6749,11 @@
       "properties": {
         "ADMIN": "Burundi",
         "ISO_A3": "BDI",
-        "ISO_A2": "BI"
+        "ISO_A2": "BI",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -6732,7 +6808,11 @@
       "properties": {
         "ADMIN": "Belgium",
         "ISO_A3": "BEL",
-        "ISO_A2": "BE"
+        "ISO_A2": "BE",
+        "new_cases": 285,
+        "new_deaths": 0,
+        "total_cases": 599,
+        "total_deaths": 0
       }
     },
     {
@@ -6807,7 +6887,11 @@
       "properties": {
         "ADMIN": "Benin",
         "ISO_A3": "BEN",
-        "ISO_A2": "BJ"
+        "ISO_A2": "BJ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -6922,7 +7006,11 @@
       "properties": {
         "ADMIN": "Burkina Faso",
         "ISO_A3": "BFA",
-        "ISO_A2": "BF"
+        "ISO_A2": "BF",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 2,
+        "total_deaths": 0
       }
     },
     {
@@ -7045,7 +7133,11 @@
       "properties": {
         "ADMIN": "Bangladesh",
         "ISO_A3": "BGD",
-        "ISO_A2": "BD"
+        "ISO_A2": "BD",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 3,
+        "total_deaths": 0
       }
     },
     {
@@ -7132,7 +7224,11 @@
       "properties": {
         "ADMIN": "Bulgaria",
         "ISO_A3": "BGR",
-        "ISO_A2": "BG"
+        "ISO_A2": "BG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 7,
+        "total_deaths": 1
       }
     },
     {
@@ -7163,7 +7259,11 @@
       "properties": {
         "ADMIN": "Bahrain",
         "ISO_A3": "BHR",
-        "ISO_A2": "BH"
+        "ISO_A2": "BH",
+        "new_cases": 15,
+        "new_deaths": 0,
+        "total_cases": 210,
+        "total_deaths": 0
       }
     },
     {
@@ -7220,7 +7320,11 @@
       "properties": {
         "ADMIN": "The Bahamas",
         "ISO_A3": "BHS",
-        "ISO_A2": "BS"
+        "ISO_A2": "BS",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -7279,7 +7383,11 @@
       "properties": {
         "ADMIN": "Bosnia and Herzegovina",
         "ISO_A3": "BIH",
-        "ISO_A2": "BA"
+        "ISO_A2": "BA",
+        "new_cases": 7,
+        "new_deaths": 0,
+        "total_cases": 11,
+        "total_deaths": 0
       }
     },
     {
@@ -7288,7 +7396,11 @@
       "properties": {
         "ADMIN": "Bajo Nuevo Bank (Petrel Is.)",
         "ISO_A3": "-99",
-        "ISO_A2": "UM"
+        "ISO_A2": "UM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -7319,7 +7431,11 @@
       "properties": {
         "ADMIN": "Saint Barthelemy",
         "ISO_A3": "BLM",
-        "ISO_A2": "BL"
+        "ISO_A2": "BL",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -7422,7 +7538,11 @@
       "properties": {
         "ADMIN": "Belarus",
         "ISO_A3": "BLR",
-        "ISO_A2": "BY"
+        "ISO_A2": "BY",
+        "new_cases": 9,
+        "new_deaths": 0,
+        "total_cases": 21,
+        "total_deaths": 0
       }
     },
     {
@@ -7469,7 +7589,11 @@
       "properties": {
         "ADMIN": "Belize",
         "ISO_A3": "BLZ",
-        "ISO_A2": "BZ"
+        "ISO_A2": "BZ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -7500,7 +7624,11 @@
       "properties": {
         "ADMIN": "Bermuda",
         "ISO_A3": "BMU",
-        "ISO_A2": "BM"
+        "ISO_A2": "BM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -7699,7 +7827,11 @@
       "properties": {
         "ADMIN": "Bolivia",
         "ISO_A3": "BOL",
-        "ISO_A2": "BO"
+        "ISO_A2": "BO",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 3,
+        "total_deaths": 0
       }
     },
     {
@@ -8436,7 +8568,11 @@
       "properties": {
         "ADMIN": "Brazil",
         "ISO_A3": "BRA",
-        "ISO_A2": "BR"
+        "ISO_A2": "BR",
+        "new_cases": 21,
+        "new_deaths": 0,
+        "total_cases": 98,
+        "total_deaths": 0
       }
     },
     {
@@ -8467,7 +8603,11 @@
       "properties": {
         "ADMIN": "Barbados",
         "ISO_A3": "BRB",
-        "ISO_A2": "BB"
+        "ISO_A2": "BB",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -8498,7 +8638,11 @@
       "properties": {
         "ADMIN": "Brunei",
         "ISO_A3": "BRN",
-        "ISO_A2": "BN"
+        "ISO_A2": "BN",
+        "new_cases": 13,
+        "new_deaths": 0,
+        "total_cases": 25,
+        "total_deaths": 0
       }
     },
     {
@@ -8553,7 +8697,11 @@
       "properties": {
         "ADMIN": "Bhutan",
         "ISO_A3": "BTN",
-        "ISO_A2": "BT"
+        "ISO_A2": "BT",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -8680,7 +8828,11 @@
       "properties": {
         "ADMIN": "Botswana",
         "ISO_A3": "BWA",
-        "ISO_A2": "BW"
+        "ISO_A2": "BW",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -8851,7 +9003,11 @@
       "properties": {
         "ADMIN": "Central African Republic",
         "ISO_A3": "CAF",
-        "ISO_A2": "CF"
+        "ISO_A2": "CF",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -11344,7 +11500,11 @@
       "properties": {
         "ADMIN": "Canada",
         "ISO_A3": "CAN",
-        "ISO_A2": "CA"
+        "ISO_A2": "CA",
+        "new_cases": 38,
+        "new_deaths": 0,
+        "total_cases": 176,
+        "total_deaths": 1
       }
     },
     {
@@ -11423,7 +11583,11 @@
       "properties": {
         "ADMIN": "Switzerland",
         "ISO_A3": "CHE",
-        "ISO_A2": "CH"
+        "ISO_A2": "CH",
+        "new_cases": 267,
+        "new_deaths": 0,
+        "total_cases": 1125,
+        "total_deaths": 6
       }
     },
     {
@@ -11916,7 +12080,11 @@
       "properties": {
         "ADMIN": "Chile",
         "ISO_A3": "CHL",
-        "ISO_A2": "CL"
+        "ISO_A2": "CL",
+        "new_cases": 10,
+        "new_deaths": 0,
+        "total_cases": 43,
+        "total_deaths": 0
       }
     },
     {
@@ -12837,7 +13005,11 @@
       "properties": {
         "ADMIN": "China",
         "ISO_A3": "CHN",
-        "ISO_A2": "CN"
+        "ISO_A2": "CN",
+        "new_cases": 30,
+        "new_deaths": 14,
+        "total_cases": 81021,
+        "total_deaths": 3194
       }
     },
     {
@@ -12948,7 +13120,11 @@
       "properties": {
         "ADMIN": "Ivory Coast",
         "ISO_A3": "CIV",
-        "ISO_A2": "CI"
+        "ISO_A2": "CI",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -12979,7 +13155,11 @@
       "properties": {
         "ADMIN": "Clipperton Island",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -13150,7 +13330,11 @@
       "properties": {
         "ADMIN": "Cameroon",
         "ISO_A3": "CMR",
-        "ISO_A2": "CM"
+        "ISO_A2": "CM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 2,
+        "total_deaths": 0
       }
     },
     {
@@ -13235,7 +13419,11 @@
       "properties": {
         "ADMIN": "Cyprus No Mans Area",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -13542,7 +13730,11 @@
       "properties": {
         "ADMIN": "Democratic Republic of the Congo",
         "ISO_A3": "COD",
-        "ISO_A2": "CD"
+        "ISO_A2": "CD",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -13697,7 +13889,11 @@
       "properties": {
         "ADMIN": "Republic of Congo",
         "ISO_A3": "COG",
-        "ISO_A2": "CG"
+        "ISO_A2": "CG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -13728,7 +13924,11 @@
       "properties": {
         "ADMIN": "Cook Islands",
         "ISO_A3": "COK",
-        "ISO_A2": "CK"
+        "ISO_A2": "CK",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -13995,7 +14195,11 @@
       "properties": {
         "ADMIN": "Colombia",
         "ISO_A3": "COL",
-        "ISO_A2": "CO"
+        "ISO_A2": "CO",
+        "new_cases": 7,
+        "new_deaths": 0,
+        "total_cases": 16,
+        "total_deaths": 0
       }
     },
     {
@@ -14026,7 +14230,11 @@
       "properties": {
         "ADMIN": "Comoros",
         "ISO_A3": "COM",
-        "ISO_A2": "KM"
+        "ISO_A2": "KM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -14057,7 +14265,11 @@
       "properties": {
         "ADMIN": "Cape Verde",
         "ISO_A3": "CPV",
-        "ISO_A2": "CV"
+        "ISO_A2": "CV",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -14128,7 +14340,11 @@
       "properties": {
         "ADMIN": "Costa Rica",
         "ISO_A3": "CRI",
-        "ISO_A2": "CR"
+        "ISO_A2": "CR",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 23,
+        "total_deaths": 0
       }
     },
     {
@@ -14137,7 +14353,11 @@
       "properties": {
         "ADMIN": "Coral Sea Islands",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -14278,7 +14498,11 @@
       "properties": {
         "ADMIN": "Cuba",
         "ISO_A3": "CUB",
-        "ISO_A2": "CU"
+        "ISO_A2": "CU",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 4,
+        "total_deaths": 0
       }
     },
     {
@@ -14309,7 +14533,11 @@
       "properties": {
         "ADMIN": "CuraĂ§ao",
         "ISO_A3": "CUW",
-        "ISO_A2": "CW"
+        "ISO_A2": "CW",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -14340,7 +14568,11 @@
       "properties": {
         "ADMIN": "Cayman Islands",
         "ISO_A3": "CYM",
-        "ISO_A2": "KY"
+        "ISO_A2": "KY",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -14379,7 +14611,11 @@
       "properties": {
         "ADMIN": "Northern Cyprus",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -14452,7 +14688,11 @@
       "properties": {
         "ADMIN": "Cyprus",
         "ISO_A3": "CYP",
-        "ISO_A2": "CY"
+        "ISO_A2": "CY",
+        "new_cases": 8,
+        "new_deaths": 0,
+        "total_cases": 14,
+        "total_deaths": 0
       }
     },
     {
@@ -14523,7 +14763,11 @@
       "properties": {
         "ADMIN": "Czech Republic",
         "ISO_A3": "CZE",
-        "ISO_A2": "CZ"
+        "ISO_A2": "CZ",
+        "new_cases": 34,
+        "new_deaths": 0,
+        "total_cases": 150,
+        "total_deaths": 0
       }
     },
     {
@@ -14666,7 +14910,11 @@
       "properties": {
         "ADMIN": "Germany",
         "ISO_A3": "DEU",
-        "ISO_A2": "DE"
+        "ISO_A2": "DE",
+        "new_cases": 693,
+        "new_deaths": 0,
+        "total_cases": 3062,
+        "total_deaths": 6
       }
     },
     {
@@ -14717,7 +14965,11 @@
       "properties": {
         "ADMIN": "Djibouti",
         "ISO_A3": "DJI",
-        "ISO_A2": "DJ"
+        "ISO_A2": "DJ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -14748,7 +15000,11 @@
       "properties": {
         "ADMIN": "Dominica",
         "ISO_A3": "DMA",
-        "ISO_A2": "DM"
+        "ISO_A2": "DM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -14849,7 +15105,11 @@
       "properties": {
         "ADMIN": "Denmark",
         "ISO_A3": "DNK",
-        "ISO_A2": "DK"
+        "ISO_A2": "DK",
+        "new_cases": 127,
+        "new_deaths": 0,
+        "total_cases": 801,
+        "total_deaths": 0
       }
     },
     {
@@ -14908,7 +15168,11 @@
       "properties": {
         "ADMIN": "Dominican Republic",
         "ISO_A3": "DOM",
-        "ISO_A2": "DO"
+        "ISO_A2": "DO",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 5,
+        "total_deaths": 0
       }
     },
     {
@@ -15115,7 +15379,11 @@
       "properties": {
         "ADMIN": "Algeria",
         "ISO_A3": "DZA",
-        "ISO_A2": "DZ"
+        "ISO_A2": "DZ",
+        "new_cases": 1,
+        "new_deaths": 1,
+        "total_cases": 26,
+        "total_deaths": 2
       }
     },
     {
@@ -15226,7 +15494,11 @@
       "properties": {
         "ADMIN": "Ecuador",
         "ISO_A3": "ECU",
-        "ISO_A2": "EC"
+        "ISO_A2": "EC",
+        "new_cases": 6,
+        "new_deaths": 0,
+        "total_cases": 23,
+        "total_deaths": 0
       }
     },
     {
@@ -15353,7 +15625,11 @@
       "properties": {
         "ADMIN": "Egypt",
         "ISO_A3": "EGY",
-        "ISO_A2": "EG"
+        "ISO_A2": "EG",
+        "new_cases": 26,
+        "new_deaths": 1,
+        "total_cases": 93,
+        "total_deaths": 2
       }
     },
     {
@@ -15456,7 +15732,11 @@
       "properties": {
         "ADMIN": "Eritrea",
         "ISO_A3": "ERI",
-        "ISO_A2": "ER"
+        "ISO_A2": "ER",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -15503,7 +15783,11 @@
       "properties": {
         "ADMIN": "Dhekelia Sovereign Base Area",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -15724,7 +16008,11 @@
       "properties": {
         "ADMIN": "Spain",
         "ISO_A3": "ESP",
-        "ISO_A2": "ES"
+        "ISO_A2": "ES",
+        "new_cases": 1266,
+        "new_deaths": 36,
+        "total_cases": 4231,
+        "total_deaths": 120
       }
     },
     {
@@ -15783,7 +16071,11 @@
       "properties": {
         "ADMIN": "Estonia",
         "ISO_A3": "EST",
-        "ISO_A2": "EE"
+        "ISO_A2": "EE",
+        "new_cases": 66,
+        "new_deaths": 0,
+        "total_cases": 79,
+        "total_deaths": 0
       }
     },
     {
@@ -15974,7 +16266,11 @@
       "properties": {
         "ADMIN": "Ethiopia",
         "ISO_A3": "ETH",
-        "ISO_A2": "ET"
+        "ISO_A2": "ET",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -16109,7 +16405,11 @@
       "properties": {
         "ADMIN": "Finland",
         "ISO_A3": "FIN",
-        "ISO_A2": "FI"
+        "ISO_A2": "FI",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 109,
+        "total_deaths": 0
       }
     },
     {
@@ -16178,7 +16478,11 @@
       "properties": {
         "ADMIN": "Fiji",
         "ISO_A3": "FJI",
-        "ISO_A2": "FJ"
+        "ISO_A2": "FJ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -16231,7 +16535,11 @@
       "properties": {
         "ADMIN": "Falkland Islands",
         "ISO_A3": "FLK",
-        "ISO_A2": "FK"
+        "ISO_A2": "FK",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -16512,7 +16820,11 @@
       "properties": {
         "ADMIN": "France",
         "ISO_A3": "FRA",
-        "ISO_A2": "FR"
+        "ISO_A2": "FR",
+        "new_cases": 780,
+        "new_deaths": 18,
+        "total_cases": 3640,
+        "total_deaths": 79
       }
     },
     {
@@ -16543,7 +16855,11 @@
       "properties": {
         "ADMIN": "Faroe Islands",
         "ISO_A3": "FRO",
-        "ISO_A2": "FO"
+        "ISO_A2": "FO",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -16574,7 +16890,11 @@
       "properties": {
         "ADMIN": "Federated States of Micronesia",
         "ISO_A3": "FSM",
-        "ISO_A2": "FM"
+        "ISO_A2": "FM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -16693,7 +17013,11 @@
       "properties": {
         "ADMIN": "Gabon",
         "ISO_A3": "GAB",
-        "ISO_A2": "GA"
+        "ISO_A2": "GA",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -16902,7 +17226,11 @@
       "properties": {
         "ADMIN": "United Kingdom",
         "ISO_A3": "GBR",
-        "ISO_A2": "GB"
+        "ISO_A2": "GB",
+        "new_cases": 208,
+        "new_deaths": 2,
+        "total_cases": 802,
+        "total_deaths": 10
       }
     },
     {
@@ -16981,7 +17309,11 @@
       "properties": {
         "ADMIN": "Georgia",
         "ISO_A3": "GEO",
-        "ISO_A2": "GE"
+        "ISO_A2": "GE",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 25,
+        "total_deaths": 0
       }
     },
     {
@@ -17012,7 +17344,11 @@
       "properties": {
         "ADMIN": "Guernsey",
         "ISO_A3": "GGY",
-        "ISO_A2": "GG"
+        "ISO_A2": "GG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -17115,7 +17451,11 @@
       "properties": {
         "ADMIN": "Ghana",
         "ISO_A3": "GHA",
-        "ISO_A2": "GH"
+        "ISO_A2": "GH",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -17146,7 +17486,11 @@
       "properties": {
         "ADMIN": "Gibraltar",
         "ISO_A3": "GIB",
-        "ISO_A2": "GI"
+        "ISO_A2": "GI",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -17273,7 +17617,11 @@
       "properties": {
         "ADMIN": "Guinea",
         "ISO_A3": "GIN",
-        "ISO_A2": "GN"
+        "ISO_A2": "GN",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -17324,7 +17672,11 @@
       "properties": {
         "ADMIN": "Gambia",
         "ISO_A3": "GMB",
-        "ISO_A2": "GM"
+        "ISO_A2": "GM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -17379,7 +17731,11 @@
       "properties": {
         "ADMIN": "Guinea Bissau",
         "ISO_A3": "GNB",
-        "ISO_A2": "GW"
+        "ISO_A2": "GW",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -17426,7 +17782,11 @@
       "properties": {
         "ADMIN": "Equatorial Guinea",
         "ISO_A3": "GNQ",
-        "ISO_A2": "GQ"
+        "ISO_A2": "GQ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -17619,7 +17979,11 @@
       "properties": {
         "ADMIN": "Greece",
         "ISO_A3": "GRC",
-        "ISO_A2": "GR"
+        "ISO_A2": "GR",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 98,
+        "total_deaths": 1
       }
     },
     {
@@ -17650,7 +18014,11 @@
       "properties": {
         "ADMIN": "Grenada",
         "ISO_A3": "GRD",
-        "ISO_A2": "GD"
+        "ISO_A2": "GD",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -18187,7 +18555,11 @@
       "properties": {
         "ADMIN": "Greenland",
         "ISO_A3": "GRL",
-        "ISO_A2": "GL"
+        "ISO_A2": "GL",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -18270,7 +18642,11 @@
       "properties": {
         "ADMIN": "Guatemala",
         "ISO_A3": "GTM",
-        "ISO_A2": "GT"
+        "ISO_A2": "GT",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -18301,7 +18677,11 @@
       "properties": {
         "ADMIN": "Guam",
         "ISO_A3": "GUM",
-        "ISO_A2": "GU"
+        "ISO_A2": "GU",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -18424,7 +18804,11 @@
       "properties": {
         "ADMIN": "Guyana",
         "ISO_A3": "GUY",
-        "ISO_A2": "GY"
+        "ISO_A2": "GY",
+        "new_cases": 5,
+        "new_deaths": 0,
+        "total_cases": 6,
+        "total_deaths": 1
       }
     },
     {
@@ -18459,7 +18843,11 @@
       "properties": {
         "ADMIN": "Hong Kong S.A.R.",
         "ISO_A3": "HKG",
-        "ISO_A2": "HK"
+        "ISO_A2": "HK",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -18490,7 +18878,11 @@
       "properties": {
         "ADMIN": "Heard Island and McDonald Islands",
         "ISO_A3": "HMD",
-        "ISO_A2": "HM"
+        "ISO_A2": "HM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -18581,7 +18973,11 @@
       "properties": {
         "ADMIN": "Honduras",
         "ISO_A3": "HND",
-        "ISO_A2": "HN"
+        "ISO_A2": "HN",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 2,
+        "total_deaths": 0
       }
     },
     {
@@ -18690,7 +19086,11 @@
       "properties": {
         "ADMIN": "Croatia",
         "ISO_A3": "HRV",
-        "ISO_A2": "HR"
+        "ISO_A2": "HR",
+        "new_cases": 11,
+        "new_deaths": 0,
+        "total_cases": 27,
+        "total_deaths": 0
       }
     },
     {
@@ -18761,7 +19161,11 @@
       "properties": {
         "ADMIN": "Haiti",
         "ISO_A3": "HTI",
-        "ISO_A2": "HT"
+        "ISO_A2": "HT",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -18840,7 +19244,11 @@
       "properties": {
         "ADMIN": "Hungary",
         "ISO_A3": "HUN",
-        "ISO_A2": "HU"
+        "ISO_A2": "HU",
+        "new_cases": 3,
+        "new_deaths": 0,
+        "total_cases": 19,
+        "total_deaths": 0
       }
     },
     {
@@ -20313,7 +20721,11 @@
       "properties": {
         "ADMIN": "Indonesia",
         "ISO_A3": "IDN",
-        "ISO_A2": "ID"
+        "ISO_A2": "ID",
+        "new_cases": 35,
+        "new_deaths": 2,
+        "total_cases": 69,
+        "total_deaths": 3
       }
     },
     {
@@ -20344,7 +20756,11 @@
       "properties": {
         "ADMIN": "Isle of Man",
         "ISO_A3": "IMN",
-        "ISO_A2": "IM"
+        "ISO_A2": "IM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -20901,7 +21317,11 @@
       "properties": {
         "ADMIN": "India",
         "ISO_A3": "IND",
-        "ISO_A2": "IN"
+        "ISO_A2": "IN",
+        "new_cases": 8,
+        "new_deaths": 1,
+        "total_cases": 82,
+        "total_deaths": 2
       }
     },
     {
@@ -20932,7 +21352,11 @@
       "properties": {
         "ADMIN": "Indian Ocean Territories",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -20963,7 +21387,11 @@
       "properties": {
         "ADMIN": "British Indian Ocean Territory",
         "ISO_A3": "IOT",
-        "ISO_A2": "IO"
+        "ISO_A2": "IO",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -21050,7 +21478,11 @@
       "properties": {
         "ADMIN": "Ireland",
         "ISO_A3": "IRL",
-        "ISO_A2": "IE"
+        "ISO_A2": "IE",
+        "new_cases": 20,
+        "new_deaths": 0,
+        "total_cases": 90,
+        "total_deaths": 1
       }
     },
     {
@@ -21329,7 +21761,11 @@
       "properties": {
         "ADMIN": "Iran",
         "ISO_A3": "IRN",
-        "ISO_A2": "IR"
+        "ISO_A2": "IR",
+        "new_cases": 1289,
+        "new_deaths": 85,
+        "total_cases": 11364,
+        "total_deaths": 514
       }
     },
     {
@@ -21440,7 +21876,11 @@
       "properties": {
         "ADMIN": "Iraq",
         "ISO_A3": "IRQ",
-        "ISO_A2": "IQ"
+        "ISO_A2": "IQ",
+        "new_cases": 23,
+        "new_deaths": 2,
+        "total_cases": 93,
+        "total_deaths": 9
       }
     },
     {
@@ -21527,7 +21967,11 @@
       "properties": {
         "ADMIN": "Iceland",
         "ISO_A3": "ISL",
-        "ISO_A2": "IS"
+        "ISO_A2": "IS",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 61,
+        "total_deaths": 0
       }
     },
     {
@@ -21586,7 +22030,11 @@
       "properties": {
         "ADMIN": "Israel",
         "ISO_A3": "ISR",
-        "ISO_A2": "IL"
+        "ISO_A2": "IL",
+        "new_cases": 25,
+        "new_deaths": 0,
+        "total_cases": 100,
+        "total_deaths": 0
       }
     },
     {
@@ -21865,7 +22313,11 @@
       "properties": {
         "ADMIN": "Italy",
         "ISO_A3": "ITA",
-        "ISO_A2": "IT"
+        "ISO_A2": "IT",
+        "new_cases": 2547,
+        "new_deaths": 252,
+        "total_cases": 17660,
+        "total_deaths": 1268
       }
     },
     {
@@ -21904,7 +22356,11 @@
       "properties": {
         "ADMIN": "Jamaica",
         "ISO_A3": "JAM",
-        "ISO_A2": "JM"
+        "ISO_A2": "JM",
+        "new_cases": 6,
+        "new_deaths": 0,
+        "total_cases": 7,
+        "total_deaths": 0
       }
     },
     {
@@ -21935,7 +22391,11 @@
       "properties": {
         "ADMIN": "Jersey",
         "ISO_A3": "JEY",
-        "ISO_A2": "JE"
+        "ISO_A2": "JE",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 2,
+        "total_deaths": 0
       }
     },
     {
@@ -22006,7 +22466,11 @@
       "properties": {
         "ADMIN": "Jordan",
         "ISO_A3": "JOR",
-        "ISO_A2": "JO"
+        "ISO_A2": "JO",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -22323,7 +22787,11 @@
       "properties": {
         "ADMIN": "Japan",
         "ISO_A3": "JPN",
-        "ISO_A2": "JP"
+        "ISO_A2": "JP",
+        "new_cases": 41,
+        "new_deaths": 2,
+        "total_cases": 716,
+        "total_deaths": 21
       }
     },
     {
@@ -22358,7 +22826,11 @@
       "properties": {
         "ADMIN": "Baykonur Cosmodrome",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -22389,7 +22861,11 @@
       "properties": {
         "ADMIN": "Siachen Glacier",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -22782,7 +23258,11 @@
       "properties": {
         "ADMIN": "Kazakhstan",
         "ISO_A3": "KAZ",
-        "ISO_A2": "KZ"
+        "ISO_A2": "KZ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -22897,7 +23377,11 @@
       "properties": {
         "ADMIN": "Kenya",
         "ISO_A3": "KEN",
-        "ISO_A2": "KE"
+        "ISO_A2": "KE",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -23032,7 +23516,11 @@
       "properties": {
         "ADMIN": "Kyrgyzstan",
         "ISO_A3": "KGZ",
-        "ISO_A2": "KG"
+        "ISO_A2": "KG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -23143,7 +23631,11 @@
       "properties": {
         "ADMIN": "Cambodia",
         "ISO_A3": "KHM",
-        "ISO_A2": "KH"
+        "ISO_A2": "KH",
+        "new_cases": 2,
+        "new_deaths": 0,
+        "total_cases": 7,
+        "total_deaths": 0
       }
     },
     {
@@ -23174,7 +23666,11 @@
       "properties": {
         "ADMIN": "Kiribati",
         "ISO_A3": "KIR",
-        "ISO_A2": "KI"
+        "ISO_A2": "KI",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -23205,7 +23701,11 @@
       "properties": {
         "ADMIN": "Saint Kitts and Nevis",
         "ISO_A3": "KNA",
-        "ISO_A2": "KN"
+        "ISO_A2": "KN",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -23272,7 +23772,11 @@
       "properties": {
         "ADMIN": "South Korea",
         "ISO_A3": "KOR",
-        "ISO_A2": "KR"
+        "ISO_A2": "KR",
+        "new_cases": 107,
+        "new_deaths": 6,
+        "total_cases": 8086,
+        "total_deaths": 72
       }
     },
     {
@@ -23315,7 +23819,11 @@
       "properties": {
         "ADMIN": "Kosovo",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -23358,7 +23866,11 @@
       "properties": {
         "ADMIN": "Kuwait",
         "ISO_A3": "KWT",
-        "ISO_A2": "KW"
+        "ISO_A2": "KW",
+        "new_cases": 20,
+        "new_deaths": 0,
+        "total_cases": 100,
+        "total_deaths": 0
       }
     },
     {
@@ -23529,7 +24041,11 @@
       "properties": {
         "ADMIN": "Laos",
         "ISO_A3": "LAO",
-        "ISO_A2": "LA"
+        "ISO_A2": "LA",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -23564,7 +24080,11 @@
       "properties": {
         "ADMIN": "Lebanon",
         "ISO_A3": "LBN",
-        "ISO_A2": "LB"
+        "ISO_A2": "LB",
+        "new_cases": 11,
+        "new_deaths": 1,
+        "total_cases": 77,
+        "total_deaths": 4
       }
     },
     {
@@ -23631,7 +24151,11 @@
       "properties": {
         "ADMIN": "Liberia",
         "ISO_A3": "LBR",
-        "ISO_A2": "LR"
+        "ISO_A2": "LR",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -23834,7 +24358,11 @@
       "properties": {
         "ADMIN": "Libya",
         "ISO_A3": "LBY",
-        "ISO_A2": "LY"
+        "ISO_A2": "LY",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -23865,7 +24393,11 @@
       "properties": {
         "ADMIN": "Saint Lucia",
         "ISO_A3": "LCA",
-        "ISO_A2": "LC"
+        "ISO_A2": "LC",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -23896,7 +24428,11 @@
       "properties": {
         "ADMIN": "Liechtenstein",
         "ISO_A3": "LIE",
-        "ISO_A2": "LI"
+        "ISO_A2": "LI",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 4,
+        "total_deaths": 0
       }
     },
     {
@@ -23951,7 +24487,11 @@
       "properties": {
         "ADMIN": "Sri Lanka",
         "ISO_A3": "LKA",
-        "ISO_A2": "LK"
+        "ISO_A2": "LK",
+        "new_cases": 3,
+        "new_deaths": 0,
+        "total_cases": 6,
+        "total_deaths": 0
       }
     },
     {
@@ -23998,7 +24538,11 @@
       "properties": {
         "ADMIN": "Lesotho",
         "ISO_A3": "LSO",
-        "ISO_A2": "LS"
+        "ISO_A2": "LS",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -24065,7 +24609,11 @@
       "properties": {
         "ADMIN": "Lithuania",
         "ISO_A3": "LTU",
-        "ISO_A2": "LT"
+        "ISO_A2": "LT",
+        "new_cases": 3,
+        "new_deaths": 0,
+        "total_cases": 6,
+        "total_deaths": 0
       }
     },
     {
@@ -24096,7 +24644,11 @@
       "properties": {
         "ADMIN": "Luxembourg",
         "ISO_A3": "LUX",
-        "ISO_A2": "LU"
+        "ISO_A2": "LU",
+        "new_cases": 21,
+        "new_deaths": 0,
+        "total_cases": 38,
+        "total_deaths": 1
       }
     },
     {
@@ -24175,7 +24727,11 @@
       "properties": {
         "ADMIN": "Latvia",
         "ISO_A3": "LVA",
-        "ISO_A2": "LV"
+        "ISO_A2": "LV",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 16,
+        "total_deaths": 0
       }
     },
     {
@@ -24206,7 +24762,11 @@
       "properties": {
         "ADMIN": "Macao S.A.R",
         "ISO_A3": "MAC",
-        "ISO_A2": "MO"
+        "ISO_A2": "MO",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -24237,7 +24797,11 @@
       "properties": {
         "ADMIN": "Saint Martin",
         "ISO_A3": "MAF",
-        "ISO_A2": "MF"
+        "ISO_A2": "MF",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -24424,7 +24988,11 @@
       "properties": {
         "ADMIN": "Morocco",
         "ISO_A3": "MAR",
-        "ISO_A2": "MA"
+        "ISO_A2": "MA",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 7,
+        "total_deaths": 1
       }
     },
     {
@@ -24455,7 +25023,11 @@
       "properties": {
         "ADMIN": "Monaco",
         "ISO_A3": "MCO",
-        "ISO_A2": "MC"
+        "ISO_A2": "MC",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 2,
+        "total_deaths": 0
       }
     },
     {
@@ -24514,7 +25086,11 @@
       "properties": {
         "ADMIN": "Moldova",
         "ISO_A3": "MDA",
-        "ISO_A2": "MD"
+        "ISO_A2": "MD",
+        "new_cases": 4,
+        "new_deaths": 0,
+        "total_cases": 8,
+        "total_deaths": 0
       }
     },
     {
@@ -24645,7 +25221,11 @@
       "properties": {
         "ADMIN": "Madagascar",
         "ISO_A3": "MDG",
-        "ISO_A2": "MG"
+        "ISO_A2": "MG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -24680,7 +25260,11 @@
       "properties": {
         "ADMIN": "Maldives",
         "ISO_A3": "MDV",
-        "ISO_A2": "MV"
+        "ISO_A2": "MV",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 9,
+        "total_deaths": 0
       }
     },
     {
@@ -25099,7 +25683,11 @@
       "properties": {
         "ADMIN": "Mexico",
         "ISO_A3": "MEX",
-        "ISO_A2": "MX"
+        "ISO_A2": "MX",
+        "new_cases": 14,
+        "new_deaths": 0,
+        "total_cases": 26,
+        "total_deaths": 0
       }
     },
     {
@@ -25138,7 +25726,11 @@
       "properties": {
         "ADMIN": "Marshall Islands",
         "ISO_A3": "MHL",
-        "ISO_A2": "MH"
+        "ISO_A2": "MH",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -25185,7 +25777,11 @@
       "properties": {
         "ADMIN": "Macedonia",
         "ISO_A3": "MKD",
-        "ISO_A2": "MK"
+        "ISO_A2": "MK",
+        "new_cases": 2,
+        "new_deaths": 0,
+        "total_cases": 9,
+        "total_deaths": 0
       }
     },
     {
@@ -25388,7 +25984,11 @@
       "properties": {
         "ADMIN": "Mali",
         "ISO_A3": "MLI",
-        "ISO_A2": "ML"
+        "ISO_A2": "ML",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -25419,7 +26019,11 @@
       "properties": {
         "ADMIN": "Malta",
         "ISO_A3": "MLT",
-        "ISO_A2": "MT"
+        "ISO_A2": "MT",
+        "new_cases": 3,
+        "new_deaths": 0,
+        "total_cases": 12,
+        "total_deaths": 0
       }
     },
     {
@@ -25694,7 +26298,11 @@
       "properties": {
         "ADMIN": "Myanmar",
         "ISO_A3": "MMR",
-        "ISO_A2": "MM"
+        "ISO_A2": "MM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -25745,7 +26353,11 @@
       "properties": {
         "ADMIN": "Montenegro",
         "ISO_A3": "MNE",
-        "ISO_A2": "ME"
+        "ISO_A2": "ME",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -25984,7 +26596,11 @@
       "properties": {
         "ADMIN": "Mongolia",
         "ISO_A3": "MNG",
-        "ISO_A2": "MN"
+        "ISO_A2": "MN",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -26015,7 +26631,11 @@
       "properties": {
         "ADMIN": "Northern Mariana Islands",
         "ISO_A3": "MNP",
-        "ISO_A2": "MP"
+        "ISO_A2": "MP",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -26242,7 +26862,11 @@
       "properties": {
         "ADMIN": "Mozambique",
         "ISO_A3": "MOZ",
-        "ISO_A2": "MZ"
+        "ISO_A2": "MZ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -26381,7 +27005,11 @@
       "properties": {
         "ADMIN": "Mauritania",
         "ISO_A3": "MRT",
-        "ISO_A2": "MR"
+        "ISO_A2": "MR",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -26412,7 +27040,11 @@
       "properties": {
         "ADMIN": "Montserrat",
         "ISO_A3": "MSR",
-        "ISO_A2": "MS"
+        "ISO_A2": "MS",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -26443,7 +27075,11 @@
       "properties": {
         "ADMIN": "Mauritius",
         "ISO_A3": "MUS",
-        "ISO_A2": "MU"
+        "ISO_A2": "MU",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -26542,7 +27178,11 @@
       "properties": {
         "ADMIN": "Malawi",
         "ISO_A3": "MWI",
-        "ISO_A2": "MW"
+        "ISO_A2": "MW",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -26767,7 +27407,11 @@
       "properties": {
         "ADMIN": "Malaysia",
         "ISO_A3": "MYS",
-        "ISO_A2": "MY"
+        "ISO_A2": "MY",
+        "new_cases": 68,
+        "new_deaths": 0,
+        "total_cases": 197,
+        "total_deaths": 0
       }
     },
     {
@@ -26918,7 +27562,11 @@
       "properties": {
         "ADMIN": "Namibia",
         "ISO_A3": "NAM",
-        "ISO_A2": "NA"
+        "ISO_A2": "NA",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -26961,7 +27609,11 @@
       "properties": {
         "ADMIN": "New Caledonia",
         "ISO_A3": "NCL",
-        "ISO_A2": "NC"
+        "ISO_A2": "NC",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -27128,7 +27780,11 @@
       "properties": {
         "ADMIN": "Niger",
         "ISO_A3": "NER",
-        "ISO_A2": "NE"
+        "ISO_A2": "NE",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -27159,7 +27815,11 @@
       "properties": {
         "ADMIN": "Norfolk Island",
         "ISO_A3": "NFK",
-        "ISO_A2": "NF"
+        "ISO_A2": "NF",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -27326,7 +27986,11 @@
       "properties": {
         "ADMIN": "Nigeria",
         "ISO_A3": "NGA",
-        "ISO_A2": "NG"
+        "ISO_A2": "NG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 2,
+        "total_deaths": 0
       }
     },
     {
@@ -27401,7 +28065,11 @@
       "properties": {
         "ADMIN": "Nicaragua",
         "ISO_A3": "NIC",
-        "ISO_A2": "NI"
+        "ISO_A2": "NI",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -27432,7 +28100,11 @@
       "properties": {
         "ADMIN": "Niue",
         "ISO_A3": "NIU",
-        "ISO_A2": "NU"
+        "ISO_A2": "NU",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -27491,7 +28163,11 @@
       "properties": {
         "ADMIN": "Netherlands",
         "ISO_A3": "NLD",
-        "ISO_A2": "NL"
+        "ISO_A2": "NL",
+        "new_cases": 190,
+        "new_deaths": 5,
+        "total_cases": 804,
+        "total_deaths": 10
       }
     },
     {
@@ -27832,7 +28508,11 @@
       "properties": {
         "ADMIN": "Norway",
         "ISO_A3": "NOR",
-        "ISO_A2": "NO"
+        "ISO_A2": "NO",
+        "new_cases": 261,
+        "new_deaths": 0,
+        "total_cases": 750,
+        "total_deaths": 1
       }
     },
     {
@@ -27935,7 +28615,11 @@
       "properties": {
         "ADMIN": "Nepal",
         "ISO_A3": "NPL",
-        "ISO_A2": "NP"
+        "ISO_A2": "NP",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -27966,7 +28650,11 @@
       "properties": {
         "ADMIN": "Nauru",
         "ISO_A3": "NRU",
-        "ISO_A2": "NR"
+        "ISO_A2": "NR",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -28191,7 +28879,11 @@
       "properties": {
         "ADMIN": "New Zealand",
         "ISO_A3": "NZL",
-        "ISO_A2": "NZ"
+        "ISO_A2": "NZ",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 6,
+        "total_deaths": 0
       }
     },
     {
@@ -28290,7 +28982,11 @@
       "properties": {
         "ADMIN": "Oman",
         "ISO_A3": "OMN",
-        "ISO_A2": "OM"
+        "ISO_A2": "OM",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 19,
+        "total_deaths": 0
       }
     },
     {
@@ -28541,7 +29237,11 @@
       "properties": {
         "ADMIN": "Pakistan",
         "ISO_A3": "PAK",
-        "ISO_A2": "PK"
+        "ISO_A2": "PK",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 21,
+        "total_deaths": 0
       }
     },
     {
@@ -28636,7 +29336,11 @@
       "properties": {
         "ADMIN": "Panama",
         "ISO_A3": "PAN",
-        "ISO_A2": "PA"
+        "ISO_A2": "PA",
+        "new_cases": 13,
+        "new_deaths": 0,
+        "total_cases": 27,
+        "total_deaths": 1
       }
     },
     {
@@ -28667,7 +29371,11 @@
       "properties": {
         "ADMIN": "Pitcairn Islands",
         "ISO_A3": "PCN",
-        "ISO_A2": "PN"
+        "ISO_A2": "PN",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -28922,7 +29630,11 @@
       "properties": {
         "ADMIN": "Peru",
         "ISO_A3": "PER",
-        "ISO_A2": "PE"
+        "ISO_A2": "PE",
+        "new_cases": 6,
+        "new_deaths": 0,
+        "total_cases": 28,
+        "total_deaths": 0
       }
     },
     {
@@ -28953,7 +29665,11 @@
       "properties": {
         "ADMIN": "Spratly Islands",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -29414,7 +30130,11 @@
       "properties": {
         "ADMIN": "Philippines",
         "ISO_A3": "PHL",
-        "ISO_A2": "PH"
+        "ISO_A2": "PH",
+        "new_cases": 12,
+        "new_deaths": 0,
+        "total_cases": 64,
+        "total_deaths": 2
       }
     },
     {
@@ -29445,7 +30165,11 @@
       "properties": {
         "ADMIN": "Palau",
         "ISO_A3": "PLW",
-        "ISO_A2": "PW"
+        "ISO_A2": "PW",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -29678,7 +30402,11 @@
       "properties": {
         "ADMIN": "Papua New Guinea",
         "ISO_A3": "PNG",
-        "ISO_A2": "PG"
+        "ISO_A2": "PG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -29797,7 +30525,11 @@
       "properties": {
         "ADMIN": "Poland",
         "ISO_A3": "POL",
-        "ISO_A2": "PL"
+        "ISO_A2": "PL",
+        "new_cases": 15,
+        "new_deaths": 0,
+        "total_cases": 64,
+        "total_deaths": 1
       }
     },
     {
@@ -29832,7 +30564,11 @@
       "properties": {
         "ADMIN": "Puerto Rico",
         "ISO_A3": "PRI",
-        "ISO_A2": "PR"
+        "ISO_A2": "PR",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 3,
+        "total_deaths": 0
       }
     },
     {
@@ -29939,7 +30675,11 @@
       "properties": {
         "ADMIN": "North Korea",
         "ISO_A3": "PRK",
-        "ISO_A2": "KP"
+        "ISO_A2": "KP",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -30018,7 +30758,11 @@
       "properties": {
         "ADMIN": "Portugal",
         "ISO_A3": "PRT",
-        "ISO_A2": "PT"
+        "ISO_A2": "PT",
+        "new_cases": 71,
+        "new_deaths": 0,
+        "total_cases": 112,
+        "total_deaths": 0
       }
     },
     {
@@ -30137,7 +30881,11 @@
       "properties": {
         "ADMIN": "Paraguay",
         "ISO_A3": "PRY",
-        "ISO_A2": "PY"
+        "ISO_A2": "PY",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 6,
+        "total_deaths": 0
       }
     },
     {
@@ -30190,7 +30938,11 @@
       "properties": {
         "ADMIN": "Palestine",
         "ISO_A3": "PSE",
-        "ISO_A2": "PS"
+        "ISO_A2": "PS",
+        "new_cases": 4,
+        "new_deaths": 0,
+        "total_cases": 35,
+        "total_deaths": 0
       }
     },
     {
@@ -30221,7 +30973,11 @@
       "properties": {
         "ADMIN": "French Polynesia",
         "ISO_A3": "PYF",
-        "ISO_A2": "PF"
+        "ISO_A2": "PF",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -30264,7 +31020,11 @@
       "properties": {
         "ADMIN": "Qatar",
         "ISO_A3": "QAT",
-        "ISO_A2": "QA"
+        "ISO_A2": "QA",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 262,
+        "total_deaths": 0
       }
     },
     {
@@ -30351,7 +31111,11 @@
       "properties": {
         "ADMIN": "Romania",
         "ISO_A3": "ROU",
-        "ISO_A2": "RO"
+        "ISO_A2": "RO",
+        "new_cases": 16,
+        "new_deaths": 0,
+        "total_cases": 64,
+        "total_deaths": 0
       }
     },
     {
@@ -32488,7 +33252,11 @@
       "properties": {
         "ADMIN": "Russia",
         "ISO_A3": "RUS",
-        "ISO_A2": "RU"
+        "ISO_A2": "RU",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 34,
+        "total_deaths": 0
       }
     },
     {
@@ -32543,7 +33311,11 @@
       "properties": {
         "ADMIN": "Rwanda",
         "ISO_A3": "RWA",
-        "ISO_A2": "RW"
+        "ISO_A2": "RW",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -32638,7 +33410,11 @@
       "properties": {
         "ADMIN": "Western Sahara",
         "ISO_A3": "ESH",
-        "ISO_A2": "EH"
+        "ISO_A2": "EH",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -32837,7 +33613,11 @@
       "properties": {
         "ADMIN": "Saudi Arabia",
         "ISO_A3": "SAU",
-        "ISO_A2": "SA"
+        "ISO_A2": "SA",
+        "new_cases": 41,
+        "new_deaths": 0,
+        "total_cases": 62,
+        "total_deaths": 0
       }
     },
     {
@@ -32846,7 +33626,11 @@
       "properties": {
         "ADMIN": "Scarborough Reef",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33057,7 +33841,11 @@
       "properties": {
         "ADMIN": "Sudan",
         "ISO_A3": "SDN",
-        "ISO_A2": "SD"
+        "ISO_A2": "SD",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -33244,7 +34032,11 @@
       "properties": {
         "ADMIN": "South Sudan",
         "ISO_A3": "SSD",
-        "ISO_A2": "SS"
+        "ISO_A2": "SS",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33343,7 +34135,11 @@
       "properties": {
         "ADMIN": "Senegal",
         "ISO_A3": "SEN",
-        "ISO_A2": "SN"
+        "ISO_A2": "SN",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 10,
+        "total_deaths": 0
       }
     },
     {
@@ -33352,7 +34148,11 @@
       "properties": {
         "ADMIN": "Serranilla Bank",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33383,7 +34183,11 @@
       "properties": {
         "ADMIN": "Singapore",
         "ISO_A3": "SGP",
-        "ISO_A2": "SG"
+        "ISO_A2": "SG",
+        "new_cases": 13,
+        "new_deaths": 0,
+        "total_cases": 200,
+        "total_deaths": 0
       }
     },
     {
@@ -33414,7 +34218,11 @@
       "properties": {
         "ADMIN": "South Georgia and South Sandwich Islands",
         "ISO_A3": "SGS",
-        "ISO_A2": "GS"
+        "ISO_A2": "GS",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33445,7 +34253,11 @@
       "properties": {
         "ADMIN": "Saint Helena",
         "ISO_A3": "SHN",
-        "ISO_A2": "SH"
+        "ISO_A2": "SH",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33542,7 +34354,11 @@
       "properties": {
         "ADMIN": "Solomon Islands",
         "ISO_A3": "SLB",
-        "ISO_A2": "SB"
+        "ISO_A2": "SB",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33597,7 +34413,11 @@
       "properties": {
         "ADMIN": "Sierra Leone",
         "ISO_A3": "SLE",
-        "ISO_A2": "SL"
+        "ISO_A2": "SL",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33644,7 +34464,11 @@
       "properties": {
         "ADMIN": "El Salvador",
         "ISO_A3": "SLV",
-        "ISO_A2": "SV"
+        "ISO_A2": "SV",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33675,7 +34499,11 @@
       "properties": {
         "ADMIN": "San Marino",
         "ISO_A3": "SMR",
-        "ISO_A2": "SM"
+        "ISO_A2": "SM",
+        "new_cases": 3,
+        "new_deaths": 0,
+        "total_cases": 66,
+        "total_deaths": 2
       }
     },
     {
@@ -33750,7 +34578,11 @@
       "properties": {
         "ADMIN": "Somaliland",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33861,7 +34693,11 @@
       "properties": {
         "ADMIN": "Somalia",
         "ISO_A3": "SOM",
-        "ISO_A2": "SO"
+        "ISO_A2": "SO",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33892,7 +34728,11 @@
       "properties": {
         "ADMIN": "Saint Pierre and Miquelon",
         "ISO_A3": "SPM",
-        "ISO_A2": "PM"
+        "ISO_A2": "PM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33967,7 +34807,11 @@
       "properties": {
         "ADMIN": "Republic of Serbia",
         "ISO_A3": "SRB",
-        "ISO_A2": "RS"
+        "ISO_A2": "RS",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -33998,7 +34842,11 @@
       "properties": {
         "ADMIN": "Sao Tome and Principe",
         "ISO_A3": "STP",
-        "ISO_A2": "ST"
+        "ISO_A2": "ST",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -34077,7 +34925,11 @@
       "properties": {
         "ADMIN": "Suriname",
         "ISO_A3": "SUR",
-        "ISO_A2": "SR"
+        "ISO_A2": "SR",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -34136,7 +34988,11 @@
       "properties": {
         "ADMIN": "Slovakia",
         "ISO_A3": "SVK",
-        "ISO_A2": "SK"
+        "ISO_A2": "SK",
+        "new_cases": 9,
+        "new_deaths": 0,
+        "total_cases": 30,
+        "total_deaths": 0
       }
     },
     {
@@ -34191,7 +35047,11 @@
       "properties": {
         "ADMIN": "Slovenia",
         "ISO_A3": "SVN",
-        "ISO_A2": "SI"
+        "ISO_A2": "SI",
+        "new_cases": 84,
+        "new_deaths": 0,
+        "total_cases": 141,
+        "total_deaths": 0
       }
     },
     {
@@ -34392,7 +35252,11 @@
       "properties": {
         "ADMIN": "Sweden",
         "ISO_A3": "SWE",
-        "ISO_A2": "SE"
+        "ISO_A2": "SE",
+        "new_cases": 155,
+        "new_deaths": 0,
+        "total_cases": 775,
+        "total_deaths": 0
       }
     },
     {
@@ -34435,7 +35299,11 @@
       "properties": {
         "ADMIN": "Swaziland",
         "ISO_A3": "SWZ",
-        "ISO_A2": "SZ"
+        "ISO_A2": "SZ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -34466,7 +35334,11 @@
       "properties": {
         "ADMIN": "Sint Maarten",
         "ISO_A3": "SXM",
-        "ISO_A2": "SX"
+        "ISO_A2": "SX",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -34497,7 +35369,11 @@
       "properties": {
         "ADMIN": "Seychelles",
         "ISO_A3": "SYC",
-        "ISO_A2": "SC"
+        "ISO_A2": "SC",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -34584,7 +35460,11 @@
       "properties": {
         "ADMIN": "Syria",
         "ISO_A3": "SYR",
-        "ISO_A2": "SY"
+        "ISO_A2": "SY",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -34615,7 +35495,11 @@
       "properties": {
         "ADMIN": "Turks and Caicos Islands",
         "ISO_A3": "TCA",
-        "ISO_A2": "TC"
+        "ISO_A2": "TC",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -34774,7 +35658,11 @@
       "properties": {
         "ADMIN": "Chad",
         "ISO_A3": "TCD",
-        "ISO_A2": "TD"
+        "ISO_A2": "TD",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -34849,7 +35737,11 @@
       "properties": {
         "ADMIN": "Togo",
         "ISO_A3": "TGO",
-        "ISO_A2": "TG"
+        "ISO_A2": "TG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -35096,7 +35988,11 @@
       "properties": {
         "ADMIN": "Thailand",
         "ISO_A3": "THA",
-        "ISO_A2": "TH"
+        "ISO_A2": "TH",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 75,
+        "total_deaths": 1
       }
     },
     {
@@ -35227,7 +36123,11 @@
       "properties": {
         "ADMIN": "Tajikistan",
         "ISO_A3": "TJK",
-        "ISO_A2": "TJ"
+        "ISO_A2": "TJ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -35418,7 +36318,11 @@
       "properties": {
         "ADMIN": "Turkmenistan",
         "ISO_A3": "TKM",
-        "ISO_A2": "TM"
+        "ISO_A2": "TM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -35461,7 +36365,11 @@
       "properties": {
         "ADMIN": "East Timor",
         "ISO_A3": "TLS",
-        "ISO_A2": "TL"
+        "ISO_A2": "TL",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -35492,7 +36400,11 @@
       "properties": {
         "ADMIN": "Tonga",
         "ISO_A3": "TON",
-        "ISO_A2": "TO"
+        "ISO_A2": "TO",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -35523,7 +36435,11 @@
       "properties": {
         "ADMIN": "Trinidad and Tobago",
         "ISO_A3": "TTO",
-        "ISO_A2": "TT"
+        "ISO_A2": "TT",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -35622,7 +36538,11 @@
       "properties": {
         "ADMIN": "Tunisia",
         "ISO_A3": "TUN",
-        "ISO_A2": "TN"
+        "ISO_A2": "TN",
+        "new_cases": 9,
+        "new_deaths": 0,
+        "total_cases": 16,
+        "total_deaths": 0
       }
     },
     {
@@ -35871,7 +36791,11 @@
       "properties": {
         "ADMIN": "Turkey",
         "ISO_A3": "TUR",
-        "ISO_A2": "TR"
+        "ISO_A2": "TR",
+        "new_cases": 4,
+        "new_deaths": 0,
+        "total_cases": 5,
+        "total_deaths": 0
       }
     },
     {
@@ -35902,7 +36826,11 @@
       "properties": {
         "ADMIN": "Tuvalu",
         "ISO_A3": "TUV",
-        "ISO_A2": "TV"
+        "ISO_A2": "TV",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -35949,7 +36877,11 @@
       "properties": {
         "ADMIN": "Taiwan",
         "ISO_A3": "TWN",
-        "ISO_A2": "TW"
+        "ISO_A2": "TW",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -36100,7 +37032,11 @@
       "properties": {
         "ADMIN": "United Republic of Tanzania",
         "ISO_A3": "TZA",
-        "ISO_A2": "TZ"
+        "ISO_A2": "TZ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -36187,7 +37123,11 @@
       "properties": {
         "ADMIN": "Uganda",
         "ISO_A3": "UGA",
-        "ISO_A2": "UG"
+        "ISO_A2": "UG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -36418,7 +37358,11 @@
       "properties": {
         "ADMIN": "Ukraine",
         "ISO_A3": "UKR",
-        "ISO_A2": "UA"
+        "ISO_A2": "UA",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 3,
+        "total_deaths": 1
       }
     },
     {
@@ -36449,7 +37393,11 @@
       "properties": {
         "ADMIN": "United States Minor Outlying Islands",
         "ISO_A3": "UMI",
-        "ISO_A2": "UM"
+        "ISO_A2": "UM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -36528,7 +37476,11 @@
       "properties": {
         "ADMIN": "Uruguay",
         "ISO_A3": "URY",
-        "ISO_A2": "UY"
+        "ISO_A2": "UY",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -37773,7 +38725,11 @@
       "properties": {
         "ADMIN": "United States of America",
         "ISO_A3": "USA",
-        "ISO_A2": "US"
+        "ISO_A2": "US",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -37804,7 +38760,11 @@
       "properties": {
         "ADMIN": "US Naval Base Guantanamo Bay",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -37995,7 +38955,11 @@
       "properties": {
         "ADMIN": "Uzbekistan",
         "ISO_A3": "UZB",
-        "ISO_A2": "UZ"
+        "ISO_A2": "UZ",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -38004,7 +38968,11 @@
       "properties": {
         "ADMIN": "Vatican",
         "ISO_A3": "VAT",
-        "ISO_A2": "VA"
+        "ISO_A2": "VA",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -38035,7 +39003,11 @@
       "properties": {
         "ADMIN": "Saint Vincent and the Grenadines",
         "ISO_A3": "VCT",
-        "ISO_A2": "VC"
+        "ISO_A2": "VC",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 1,
+        "total_deaths": 0
       }
     },
     {
@@ -38286,7 +39258,11 @@
       "properties": {
         "ADMIN": "Venezuela",
         "ISO_A3": "VEN",
-        "ISO_A2": "VE"
+        "ISO_A2": "VE",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 2,
+        "total_deaths": 0
       }
     },
     {
@@ -38317,7 +39293,11 @@
       "properties": {
         "ADMIN": "British Virgin Islands",
         "ISO_A3": "VGB",
-        "ISO_A2": "VG"
+        "ISO_A2": "VG",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -38348,7 +39328,11 @@
       "properties": {
         "ADMIN": "United States Virgin Islands",
         "ISO_A3": "VIR",
-        "ISO_A2": "VI"
+        "ISO_A2": "VI",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -38583,7 +39567,11 @@
       "properties": {
         "ADMIN": "Vietnam",
         "ISO_A3": "VNM",
-        "ISO_A2": "VN"
+        "ISO_A2": "VN",
+        "new_cases": 9,
+        "new_deaths": 0,
+        "total_cases": 48,
+        "total_deaths": 0
       }
     },
     {
@@ -38614,7 +39602,11 @@
       "properties": {
         "ADMIN": "Vanuatu",
         "ISO_A3": "VUT",
-        "ISO_A2": "VU"
+        "ISO_A2": "VU",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -38645,7 +39637,11 @@
       "properties": {
         "ADMIN": "Wallis and Futuna",
         "ISO_A3": "WLF",
-        "ISO_A2": "WF"
+        "ISO_A2": "WF",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -38676,7 +39672,11 @@
       "properties": {
         "ADMIN": "Akrotiri Sovereign Base Area",
         "ISO_A3": "-99",
-        "ISO_A2": "-"
+        "ISO_A2": "-",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -38707,7 +39707,11 @@
       "properties": {
         "ADMIN": "Samoa",
         "ISO_A3": "WSM",
-        "ISO_A2": "WS"
+        "ISO_A2": "WS",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -38832,7 +39836,11 @@
       "properties": {
         "ADMIN": "Yemen",
         "ISO_A3": "YEM",
-        "ISO_A2": "YE"
+        "ISO_A2": "YE",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -39069,7 +40077,11 @@
       "properties": {
         "ADMIN": "South Africa",
         "ISO_A3": "ZAF",
-        "ISO_A2": "ZA"
+        "ISO_A2": "ZA",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 17,
+        "total_deaths": 0
       }
     },
     {
@@ -39244,7 +40256,11 @@
       "properties": {
         "ADMIN": "Zambia",
         "ISO_A3": "ZMB",
-        "ISO_A2": "ZM"
+        "ISO_A2": "ZM",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     },
     {
@@ -39359,7 +40375,11 @@
       "properties": {
         "ADMIN": "Zimbabwe",
         "ISO_A3": "ZWE",
-        "ISO_A2": "ZW"
+        "ISO_A2": "ZW",
+        "new_cases": 0,
+        "new_deaths": 0,
+        "total_cases": 0,
+        "total_deaths": 0
       }
     }
   ]
